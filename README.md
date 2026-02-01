@@ -35,7 +35,7 @@ The objective of this project is to build a machine learning model that can anal
 pip install -r requirements.txt
 ```
 ---
-### Step 2: Run the notebool
+### Step 2: Run the notebook
 ---
 
 ###  Model Architecture
